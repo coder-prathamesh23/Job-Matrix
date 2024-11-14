@@ -10,8 +10,10 @@ employers, and maintain an organized database of job opportunities.
 **Objective**
 ✓ Automate the job application process through a REST API to enhance integration with
 existing systems.
+
 ✓ Ensure data accuracy with automated validation and storage of job postings and
 applications.
+
 ✓ Facilitate seamless communication between students and employers to improve hiring
 workflows.
 
