@@ -8,6 +8,7 @@ aims to streamline the hiring process, improve communication between students an
 employers, and maintain an organized database of job opportunities.
 
 **Objective**
+
 ✓ Automate the job application process through a REST API to enhance integration with
 existing systems.
 
